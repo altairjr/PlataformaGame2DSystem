@@ -1,0 +1,20 @@
+"Hero Warrior" configuration:
+
+Rigidbody:
+-Body type Dynamic.
+-Material Zero_friction.
+-Simulated true.
+-Use auto mass false.
+-Mass 1.4f.
+-Linear drag 0f.
+-Angular drag 0.05f.
+-Gravity scale 2f.
+-Collision detection continuous.
+-Sleeping mode start awake.
+-Interpolate none.
+-Contraints freeze rotation Z true.
+
+Box Collider 2D:
+-All false.
+-Offset X 0f Y 0.02f.
+-Size X 0.5f Y 1.25f.
